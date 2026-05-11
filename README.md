@@ -1,13 +1,13 @@
 # 🔍 CTF Writeups — Murillo H. W. Gonçalves
 
 Repositório de índice com todos os meus writeups de CTF, organizados por categoria.
-Cada link leva ao repositório completo com documentação bilíngue (PT/EN).
+Cada link leva ao repositório completo com documentação (PT/EN).
 
 ## 📁 Writeups por Categoria
 
 | #  |          CTF          | Categoria |                                Repositório                                              |
 |--- |-----------------------  |-----------|---------------------------------------------------------------------------------------|
-| 01 | TechnicalTest(Tempest)  | Web       | [🔗 Link](https://github.com/murillohwg/CTF-TechnicalTest---Tempest)                  |
+| 01 | TechnicalTest(Tempest)  | Web&cripto| [🔗 Link](https://github.com/murillohwg/CTF-TechnicalTest---Tempest)                  |
 | 02 | HiddenDeepIntoMyHeart   | Web       | [🔗 Link](https://github.com/murillohwg/CTF-THM---HiddenDeepIntoMyHeart-)             |
 | 03 | OperaçãoVooFantasma     | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--OperacaoILhaFantasma)              |
 | 04 | MarcaçãoQueEntregouTudo | GEOINT    | [🔗 Link](https://github.com/murillohwg/CTF--OSINT-GeoINT-)                           |
