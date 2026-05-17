@@ -1,3 +1,9 @@
+![CTF](https://img.shields.io/badge/CTF-Writeups-red?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/Focus-OSINT-blue?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web-Security-orange?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-TryHackMe-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 # CTF Writeups
 
 Repositório de índice com todos os meus writeups de CTF, organizados por categoria.
