@@ -1,9 +1,9 @@
-# 🔍 CTF Writeups — Murillo H. W. Gonçalves
+# CTF Writeups
 
 Repositório de índice com todos os meus writeups de CTF, organizados por categoria.
 Cada link leva ao repositório completo com documentação (PT/EN).
 
-## 📁 Writeups por Categoria
+## Categorias
 
 | #  |          CTF          | Categoria |                                Repositório                                              |
 |--- |-----------------------  |-----------|---------------------------------------------------------------------------------------|
