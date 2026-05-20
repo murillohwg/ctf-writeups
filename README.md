@@ -21,3 +21,6 @@ Cada link leva ao repositório completo com documentação (PT/EN).
 | 07 | EncontreSeuAmor         | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT-EncontreSeuAmor-)                   |
 | 08 | OperaçãoRebranding      | FININT    | [🔗 Link](https://github.com/murillohwg/CTF-OSINT---OperacaoRebrandingTipoHACENDADO)  |
 | 09 | NãoSei,PareceFalso      | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--NaoSei-Rick-PareceFalso)           |
+| 10 | Shared Secrets          | Cripto    | [🔗 Link](https://github.com/murillohwg/ctf-SharedSecrets-picoCTF)                    |
+
+---
