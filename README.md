@@ -10,7 +10,7 @@ Cada link leva ao repositório completo com documentação (PT/EN).
 
 ## Categorias
 
-| #  |          CTF          | Categoria |                                Repositório                                              |
+| #  |          CTF            | Categoria |                                Repositório                                            |
 |--- |-----------------------  |-----------|---------------------------------------------------------------------------------------|
 | 01 | TechnicalTest(Tempest)  | Web&cripto| [🔗 Link](https://github.com/murillohwg/CTF-TechnicalTest---Tempest)                  |
 | 02 | HiddenDeepIntoMyHeart   | Web       | [🔗 Link](https://github.com/murillohwg/CTF-THM---HiddenDeepIntoMyHeart-)             |
@@ -22,5 +22,6 @@ Cada link leva ao repositório completo com documentação (PT/EN).
 | 08 | OperaçãoRebranding      | FININT    | [🔗 Link](https://github.com/murillohwg/CTF-OSINT---OperacaoRebrandingTipoHACENDADO)  |
 | 09 | NãoSei,PareceFalso      | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--NaoSei-Rick-PareceFalso)           |
 | 10 | Shared Secrets          | Cripto    | [🔗 Link](https://github.com/murillohwg/ctf-SharedSecrets-picoCTF)                    |
+| 11 | ABSOLUTE NANO           | Linux PrivEsc     | [🔗 Link](https://github.com/murillohwg/ctf-absolute-nano-picoCTF)            |
 
 ---
