@@ -9,18 +9,22 @@ Cada link leva ao repositório completo com documentação (PT/EN).
 
 ## Categorias
 
-| #  |          CTF            | Categoria |                                Repositório                                            |
-|--- |-----------------------  |-----------|---------------------------------------------------------------------------------------|
-| 01 | TechnicalTest(Tempest)  | Web&cripto| [🔗 Link](https://github.com/murillohwg/CTF-TechnicalTest---Tempest)                  |
-| 02 | HiddenDeepIntoMyHeart   | Web       | [🔗 Link](https://github.com/murillohwg/CTF-THM---HiddenDeepIntoMyHeart-)             |
-| 03 | OperaçãoVooFantasma     | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--OperacaoILhaFantasma)              |
-| 04 | MarcaçãoQueEntregouTudo | GEOINT    | [🔗 Link](https://github.com/murillohwg/CTF--OSINT-GeoINT-)                           |
-| 05 | IlhaDaCorrupção         | FININT    | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--IlhaDaCorrupcaoVol.8)              |
-| 06 | SobOsBraçosDeCristo     | GEOINT    | [🔗 Link](https://github.com/murillohwg/CTF---GEOINT-SobOsBracosDeCRISTO-)            |
-| 07 | EncontreSeuAmor         | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT-EncontreSeuAmor-)                   |
-| 08 | OperaçãoRebranding      | FININT    | [🔗 Link](https://github.com/murillohwg/CTF-OSINT---OperacaoRebrandingTipoHACENDADO)  |
-| 09 | NãoSei,PareceFalso      | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--NaoSei-Rick-PareceFalso)           |
-| 10 | Shared Secrets          | Cripto    | [🔗 Link](https://github.com/murillohwg/ctf-SharedSecrets-picoCTF)                    |
-| 11 | ABSOLUTE NANO           | Linux PrivEsc     | [🔗 Link](https://github.com/murillohwg/ctf-absolute-nano-picoCTF)            |
+| #  |          CTF            | Categoria |                                Repositório                                                                                                   |
+|--- |-----------------------  |-----------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 01 | TechnicalTest(Tempest)  | Web&cripto| [🔗 Link](https://github.com/murillohwg/CTF-TechnicalTest---Tempest)                                                                         |
+| 02 | HiddenDeepIntoMyHeart   | Web       | [🔗 Link](https://github.com/murillohwg/CTF-THM---HiddenDeepIntoMyHeart-)                                                                    |
+| 03 | OperaçãoVooFantasma     | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--OperacaoILhaFantasma)                                                                     |
+| 04 | MarcaçãoQueEntregouTudo | GEOINT    | [🔗 Link](https://github.com/murillohwg/CTF--OSINT-GeoINT-)                                                                                  |
+| 05 | IlhaDaCorrupção         | FININT    | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--IlhaDaCorrupcaoVol.8)                                                                     |
+| 06 | SobOsBraçosDeCristo     | GEOINT    | [🔗 Link](https://github.com/murillohwg/CTF---GEOINT-SobOsBracosDeCRISTO-)                                                                   |
+| 07 | EncontreSeuAmor         | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT-EncontreSeuAmor-)                                                                          |
+| 08 | OperaçãoRebranding      | FININT    | [🔗 Link](https://github.com/murillohwg/CTF-OSINT---OperacaoRebrandingTipoHACENDADO)                                                         |
+| 09 | NãoSei,PareceFalso      | OSINT     | [🔗 Link](https://github.com/murillohwg/CTF-OSINT--NaoSei-Rick-PareceFalso)                                                                  |
+| 10 | Shared Secrets          | Cripto    | [🔗 Link](https://github.com/murillohwg/ctf-SharedSecrets-picoCTF)                                                                           |
+| 11 | ABSOLUTE NANO           | Linux PrivEsc| [🔗 Link](https://github.com/murillohwg/ctf-absolute-nano-picoCTF)                                                                        |
+| 12 | Old Sessions            | Web(tokens)  | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/old-sessions/writeup.md)                                            |
+| 13 | SSTI1                   | Web(SSTI)    |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/ssti1/writeup.md)                                                  |
+| 14 | CanYouSee               | Forensics(metadata) | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/CanYouSee/writeup.md)                                        |
+| 15 | InspectHTML             | Web          |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/InspectHTML/writeup.md)                                            |
 
 ---
