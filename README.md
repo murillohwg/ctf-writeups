@@ -7,7 +7,7 @@
 ![OSINT](https://img.shields.io/badge/Focus-OSINT-blue?style=for-the-badge)
 ![Web Security](https://img.shields.io/badge/Web-Security-orange?style=for-the-badge)
 # CTF Writeups
-> Índice
+> Index
 
 | #  |          CTF            | Plataforma    | Categoria    |                                       Repositório                                                                         |
 |--- |-------------------------|---------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -24,7 +24,8 @@
 | 11 | ABSOLUTE NANO           | picoCTF       | Linux PrivEsc| [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/absolute-nano/writeup.md)                           |
 | 12 | Old Sessions            | picoCTF       | Web(tokens)  | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/old-sessions/writeup.md)                            |
 | 13 | SSTI1                   | picoCTF       | Web(SSTI)    |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/ssti1/writeup.md)                                  |
-| 14 | CanYouSee               | picoCTF       | Forensics(metadata)    | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/CanYouSee/writeup.md)                     |
+| 14 | CanYouSee               | picoCTF       | Forensics    | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/CanYouSee/writeup.md)                               |
 | 15 | InspectHTML             | picoCTF       | Web          |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/InspectHTML/writeup.md)                            |
+| 16 | heap dump               | picoCTF       | Web(API)     |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/head-dump/writeup.md)                              |
 
 ---
