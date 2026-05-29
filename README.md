@@ -9,7 +9,7 @@
 # CTF Writeups
 > Index
 
-| #  |          CTF            | Plataforma    | Categoria    |                                       Repositório                                                                         |
+| #  |          CTF            | Plataform     | Category     |                                       Repository                                                                          |
 |--- |-------------------------|---------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
 | 01 | TechnicalTest(Tempest)  | Tempest       | Cripto&Web(JWT)   | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/TesteT%C3%A9cnico/Valdoria(TEMPEST)/writeup.md)        |
 | 02 | HiddenDeepIntoMyHeart   | TryHackMe     | Web(IDOR)    | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/tryhackme/HiddenDeepIntoMyHeart/writeup.md)                 |
