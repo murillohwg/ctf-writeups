@@ -27,5 +27,6 @@
 | 14 | CanYouSee               | picoCTF       | Forensics    | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/CanYouSee/writeup.md)                               |
 | 15 | InspectHTML             | picoCTF       | Web          |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/InspectHTML/writeup.md)                            |
 | 16 | heap dump               | picoCTF       | Web(API)     |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/heap-dump/writeup.md)                              |
+| 17 | unminify                | picoCTF       | Web          | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/unminify/writeup.md)                                |
 
 ---
