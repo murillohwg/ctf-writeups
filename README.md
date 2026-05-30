@@ -28,5 +28,6 @@
 | 15 | InspectHTML             | picoCTF       | Web          |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/InspectHTML/writeup.md)                            |
 | 16 | heap dump               | picoCTF       | Web(API)     |  [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/heap-dump/writeup.md)                              |
 | 17 | unminify                | picoCTF       | Web          | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/unminify/writeup.md)                                |
+| 18 | scavenger-hunt          | picoCTF       | Web          | [🔗 Link](https://github.com/murillohwg/ctf-writeup/blob/main/picoCTF/scavenger-hunt/writeup.md)                          |
 
 ---
